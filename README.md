@@ -45,7 +45,7 @@ I'm an indie full stack web developer with a passion for building dynamic and us
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=o-adm&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=o-adm&show_icons=true&theme=dracula)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=o-adm&theme=gruvbox&border_radius=4.5) -->
 
