@@ -39,7 +39,25 @@ I'm an indie full stack web developer with a passion for building dynamic and us
 <img align="left" alt="NPM" width="30px" style="padding-right:10px;padding-bottom: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;padding-bottom: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;padding-bottom: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
 <br />
 
 #
+
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=o-adm&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=o-adm&theme=gruvbox&border_radius=4.5) -->
+
+#
+<!--
+<details>
+ <summary><h3>👨‍💻 ADM's Coding Journey</h3></summary>
+My journey into the world of coding began with curiosity and a desire to create. I started exploring the basics of web development, fascinated by how lines of code could transform into interactive, dynamic websites. What began as a hobby soon evolved into a passion, and I found myself diving deeper into the full-stack development process.
+
+Over time, I took on more complex projects, pushing my boundaries and constantly learning new technologies. From building responsive front-end interfaces to developing robust back-end systems, I’ve honed my skills by tackling real-world challenges and creating solutions from scratch.
+
+As an indie full-stack developer, I’ve embraced the entire development cycle, from planning and design to deployment and maintenance. Each project has been a learning experience, allowing me to refine my approach and stay up-to-date with the latest industry trends.
+
+My GitHub repositories reflect this journey—a mix of personal projects, collaborative efforts, and experiments that showcase my growth as a developer. Each line of code represents a step forward, and I’m excited to continue learning, building, and sharing as I grow in this ever-evolving field.
+-->
