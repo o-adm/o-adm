@@ -1,3 +1,9 @@
+<style>
+   .markdown-body img[align=left] {
+    padding-right: 50px;
+}
+</style>
+
 # 👽 OUSSAMA ADM
 
 **`Digital Craftsman (Developer/Creator)`**
