@@ -1,9 +1,3 @@
-<style>
-   .markdown-body img[align=left] {
-    padding-right: 50px;
-}
-</style>
-
 # 👽 OUSSAMA ADM
 
 **`Digital Craftsman (Developer/Creator)`**
@@ -21,8 +15,8 @@ I'm an indie full stack web developer with a passion for building dynamic and us
 ---
 
 ### 🧰 Languages and Tools
-
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;padding-bottom: 20px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<div>
+   <img align="left" alt="HTML" width="30px" style="padding-right:10px;padding-bottom: 20px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;padding-bottom: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Sass" width="30px" style="padding-right:10px;padding-bottom: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;padding-bottom: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
@@ -45,6 +39,8 @@ I'm an indie full stack web developer with a passion for building dynamic and us
 <img align="left" alt="NPM" width="30px" style="padding-right:10px;padding-bottom: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;padding-bottom: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;padding-bottom: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+</div>
+
 <br />
 
 #
