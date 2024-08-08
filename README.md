@@ -50,7 +50,6 @@ I'm an indie full stack web developer with a passion for building dynamic and us
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=o-adm&theme=gruvbox&border_radius=4.5) -->
 
 #
-<!--
 <details>
  <summary><h3>👨‍💻 ADM's Coding Journey</h3></summary>
 My journey into the world of coding began with curiosity and a desire to create. I started exploring the basics of web development, fascinated by how lines of code could transform into interactive, dynamic websites. What began as a hobby soon evolved into a passion, and I found myself diving deeper into the full-stack development process.
@@ -60,4 +59,4 @@ Over time, I took on more complex projects, pushing my boundaries and constantly
 As an indie full-stack developer, I’ve embraced the entire development cycle, from planning and design to deployment and maintenance. Each project has been a learning experience, allowing me to refine my approach and stay up-to-date with the latest industry trends.
 
 My GitHub repositories reflect this journey—a mix of personal projects, collaborative efforts, and experiments that showcase my growth as a developer. Each line of code represents a step forward, and I’m excited to continue learning, building, and sharing as I grow in this ever-evolving field.
--->
+</details>
