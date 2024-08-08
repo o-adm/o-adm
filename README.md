@@ -52,7 +52,7 @@ I'm an indie full stack web developer with a passion for building dynamic and us
 #
 <details>
  <summary><h3>👨‍💻 ADM's Coding Journey</h3></summary>
-My journey into the world of coding began with curiosity and a desire to create. I started exploring the basics of web development, fascinated by how lines of code could transform into interactive, dynamic websites. What began as a hobby soon evolved into a passion, and I found myself diving deeper into the full-stack development process.
+My journey into the world of coding began with curiosity and a desire to create. I started exploring the basics of web development, fascinated by how lines of code could transform into interactive, dynamic websites. What began as a hobby soon evolved into a passion, and I found myself diving deeper into the full-stack development process.<br>
 
 Over time, I took on more complex projects, pushing my boundaries and constantly learning new technologies. From building responsive front-end interfaces to developing robust back-end systems, I’ve honed my skills by tackling real-world challenges and creating solutions from scratch.
 
